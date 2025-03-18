@@ -9,12 +9,7 @@ This repository contains 50 exercises to help you practice converting numbers be
 4. **Binary to Decimal**
 5. **Binary to Octal**
 6. **Binary to Hexadecimal**
-7. **Octal to Decimal**
-8. **Octal to Binary**
-9. **Octal to Hexadecimal**
-10. **Hexadecimal to Decimal**
-11. **Hexadecimal to Binary**
-12. **Hexadecimal to Octal**
+
 
 ---
 
@@ -161,33 +156,6 @@ Multiply each digit by its place value (powers of 2) and sum the results.
 29. Convert 1010101010₂ to Hexadecimal.
 30. Convert 1111111111₂ to Hexadecimal.
 
-### 🔹 **Octal to Decimal**
-31. Convert 24₈ to Decimal.
-32. Convert 73₈ to Decimal.
-33. Convert 144₈ to Decimal.
-34. Convert 377₈ to Decimal.
-35. Convert 1000₈ to Decimal.
-
-### 🔹 **Octal to Binary**
-36. Convert 7₈ to Binary.
-37. Convert 21₈ to Binary.
-38. Convert 55₈ to Binary.
-39. Convert 101₈ to Binary.
-40. Convert 777₈ to Binary.
-
-### 🔹 **Octal to Hexadecimal**
-41. Convert 10₈ to Hexadecimal.
-42. Convert 77₈ to Hexadecimal.
-43. Convert 144₈ to Hexadecimal.
-44. Convert 257₈ to Hexadecimal.
-45. Convert 765₈ to Hexadecimal.
-
-### 🔹 **Hexadecimal to Decimal**
-46. Convert A₁₆ to Decimal.
-47. Convert 1F₁₆ to Decimal.
-48. Convert 2B₁₆ to Decimal.
-49. Convert 3E8₁₆ to Decimal.
-50. Convert FFF₁₆ to Decimal.
 
 ---
 
